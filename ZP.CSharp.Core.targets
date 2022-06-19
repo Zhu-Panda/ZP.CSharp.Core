@@ -1,0 +1,5 @@
+<Project>
+    <Target Name="GetAssemblyName">
+        <Message Importance="High" Text="AssemblyName: $(AssemblyName)" />
+    </Target>
+</Project>
